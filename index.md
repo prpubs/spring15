@@ -8,7 +8,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 
 # Introduction #
 
-[Lesson 1][invertedCourse]  
+[Lesson 1][lesson1]  
 [Introduction to the inverted musicianship course (for students).][invertedCourse]  
 [Introduction to this "textbook" (for instructors & scholars).][introSite]  
 
