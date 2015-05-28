@@ -6,11 +6,13 @@ title: Lesson 1 - Welcome to the PR Pubs!
 {{ page.title }}
 ================
 
+<iframe width="490" height="315" src="https://www.youtube.com/embed/BjMIrT4FyiU" frameborder="0" allowfullscreen></iframe>
+
 Howdy! I'm glad you've made it to the course content area for PR Pubs. You'll see a unit for each week of the course similar to this one. In short, each week you will have some course content as well as assignments that you complete (more below on how that is graded). This week is slightly different as we are just easing into the course, so we are going to be spending the week prepping for the rest of the semester by building our toolkit. One thing to know, there is a LOT of things we want to get started this week. With that, things I want you to do:
 
 # Assignments for Orientation Week
 
-## 1\. Read the [syllabus](http://prpubs.us/syllabus/ "Syllabus")
+## 1\. Read the [syllabus][syllabus]
 
 This will be helpful in getting a broad sense of what we will be doing throughout the course. My hope is that it serves as a roadmap for 1.) what will happen and 2.) how you can be successful.
 
@@ -18,9 +20,9 @@ This will be helpful in getting a broad sense of what we will be doing throughou
 
 For this class you are required to maintain a domain andblog, which will become a portfolio by the end of the semester. You may already have a blog (great!) and it's absolutely okay to use that, but my strong recommendation would be getting an actual domain (.com, .org, .net) if you don't have that already. You'll see attached to this page a video on how to setup Wordpress on a domain via http://create.ou.edu, a service which is provided to you as student at the University of Oklahoma. Wordpress is a free, highly popular, open source blogging platform. You can also use a commercial host such as [Reclaim Hosting](http://reclaimhosting.com) or [Lithium Hosting](http://lithiumhosting.com). Below are two videos. One walks your through how to sign up with OU Create and the other shows you how to install Wordpress. Take about half an hour and complete these tutorials. You can also read more on Wordpress on the [OU Create support documentation page](http://create.ou.edu/support/applications/wordpress). 
 
-https://www.youtube.com/embed/U-AUqrmXJDI
+<iframe width="490" height="315" src="https://www.youtube.com/embed/U-AUqrmXJDI" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=Av8rTd3HC0Q
+<iframe width="490" height="315" src="https://www.youtube.com/embed/Av8rTd3HC0Q" frameborder="0" allowfullscreen></iframe>
 
 ## 3\. Submit your domain address
 
@@ -41,3 +43,5 @@ Occasionally throughout the semester we will actually virtually come together. 
 ## 6\. Finally, take the quiz!
 
 At the end of each unit you will take a quiz on D2L (learn.ou.edu) that is worth a total of 10 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently.When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
+
+[syllabus]: syllabus.html
