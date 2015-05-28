@@ -11,6 +11,7 @@ This site contains online resources for the PR Publications courses at the Unive
 [Lesson 1 - Welcome to PR Pubs!][lesson1]  
 
 [lesson1]: lesson1.html
+Test
 
 [LSandFBsymbols]: Graphics/Handouts/LSandFBsymbols.pdf
 [funcBassChart]: Graphics/Handouts/funcBassChart.pdf
