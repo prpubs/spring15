@@ -112,6 +112,8 @@ Writing a music-analytical essay.
 [Analyzing poetry.][poetry]  
 [Interpreting Scripture – introductory resources.][biblicalHermeneutics]  
 
+[lesson1]: lesson1.html
+
 [musi199]: http://kshaffer.github.com/musi199
 [musi299]: http://kshaffer.github.com/musi299
 
